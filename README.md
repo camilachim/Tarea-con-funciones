@@ -34,6 +34,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/74d087bf6f2d704aca1b4e36c
 https://github.com/camilachim/Tarea-con-funciones/blob/8b4c691d86fe150c37c32a9864ad39d5140cf8bc/11_MCD.c
 
 **Suma de impares**
+https://github.com/camilachim/Tarea-con-funciones/blob/799dd025b1e2bd1bd4d8c37474db757473cf2463/12_Suma_Impares.c
+
 **Suma de pares**
 **Suma de cuadrados**
 **Suma de cubos**
