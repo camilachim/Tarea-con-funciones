@@ -19,6 +19,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/80ffb2cb161e9925a3f0a9037
 https://github.com/camilachim/Tarea-con-funciones/blob/1788d87a045d6e68192f0859618cd3b7b04a0120/6_Factorial.c
 
 **Suma de una serie aritmetica**
+https://github.com/camilachim/Tarea-con-funciones/blob/b635a2285c75fcc600381aad7bb563eb1285329c/7_Suma_Serie_Aritmetica.c
+
 **Producto de una serie geometrica**
 **Numero de digitos de un numero**
 **Verificar si un  numero es primo**
