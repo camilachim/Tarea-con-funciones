@@ -40,6 +40,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/799dd025b1e2bd1bd4d8c3747
 https://github.com/camilachim/Tarea-con-funciones/blob/ff43db498554440897c48bfd1bd4549fa870967a/13_Suma_Pares.c
 
 **Suma de cuadrados**
+https://github.com/camilachim/Tarea-con-funciones/blob/ace99e2bf88669d90951f616910146fb508eb3f1/14_Suma_Cuadrados.c
+
 **Suma de cubos**
 **Suma de fracciones**
 **Producto de fracciones**
