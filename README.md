@@ -58,6 +58,7 @@ https://github.com/camilachim/Tarea-con-funciones/blob/10deb85c98e2013034def19c7
 https://github.com/camilachim/Tarea-con-funciones/blob/d4246b52d99783d3f14c7876bdd73d1466d07506/19_Numero_Triangular.c
 
 **Calcular la suma de factoriales**
+https://github.com/camilachim/Tarea-con-funciones/blob/07e024430e7bcb777a9b30d1818f249cb8db11af/20_Suma_Factoriales.c
 
 
 
