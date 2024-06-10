@@ -37,6 +37,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/8b4c691d86fe150c37c32a986
 https://github.com/camilachim/Tarea-con-funciones/blob/799dd025b1e2bd1bd4d8c37474db757473cf2463/12_Suma_Impares.c
 
 **Suma de pares**
+https://github.com/camilachim/Tarea-con-funciones/blob/ff43db498554440897c48bfd1bd4549fa870967a/13_Suma_Pares.c
+
 **Suma de cuadrados**
 **Suma de cubos**
 **Suma de fracciones**
