@@ -55,6 +55,9 @@ https://github.com/camilachim/Tarea-con-funciones/blob/e3b2b751d790f6d3887276359
 https://github.com/camilachim/Tarea-con-funciones/blob/10deb85c98e2013034def19c728637b9851379f6/18_Contar_Primos.c
 
 **Calcular el n-esimo numero triangular**
+https://github.com/camilachim/Tarea-con-funciones/blob/d4246b52d99783d3f14c7876bdd73d1466d07506/19_Numero_Triangular.c
+
 **Calcular la suma de factoriales**
+
 
 
