@@ -22,6 +22,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/1788d87a045d6e68192f08596
 https://github.com/camilachim/Tarea-con-funciones/blob/b635a2285c75fcc600381aad7bb563eb1285329c/7_Suma_Serie_Aritmetica.c
 
 **Producto de una serie geometrica**
+https://github.com/camilachim/Tarea-con-funciones/blob/d8429a1dd2f9d5752ee8683a75888edba1359dc6/8_Producto_Serie_Geometrica.c
+
 **Numero de digitos de un numero**
 **Verificar si un  numero es primo**
 **Encontrar el maximo comun dividor**
