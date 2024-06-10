@@ -28,6 +28,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/d8429a1dd2f9d5752ee8683a7
 https://github.com/camilachim/Tarea-con-funciones/blob/8aa17a07124abb356f4465cd8dafbd3332bcbbbd/9_Numero_Digitos.c
 
 **Verificar si un  numero es primo**
+https://github.com/camilachim/Tarea-con-funciones/blob/74d087bf6f2d704aca1b4e36cce8037fce4d4379/10_Verificar_Primo.c
+
 **Encontrar el maximo comun dividor**
 **Suma de impares**
 **Suma de pares**
