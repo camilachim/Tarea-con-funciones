@@ -52,6 +52,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/4f8236c09bd84527727e01c08
 https://github.com/camilachim/Tarea-con-funciones/blob/e3b2b751d790f6d3887276359ed04f78ddaa3c62/17_Producto_Fracciones.c
 
 **Encontrar primos**
+https://github.com/camilachim/Tarea-con-funciones/blob/10deb85c98e2013034def19c728637b9851379f6/18_Contar_Primos.c
+
 **Calcular el n-esimo numero triangular**
 **Calcular la suma de factoriales**
 
