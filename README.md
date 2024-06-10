@@ -43,6 +43,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/ff43db498554440897c48bfd1
 https://github.com/camilachim/Tarea-con-funciones/blob/ace99e2bf88669d90951f616910146fb508eb3f1/14_Suma_Cuadrados.c
 
 **Suma de cubos**
+https://github.com/camilachim/Tarea-con-funciones/blob/bdb03be0e9fa44ea736f3c526863f70c8d9b931e/15_Suma_Cubos.c
+
 **Suma de fracciones**
 **Producto de fracciones**
 **Encontrar primos**
