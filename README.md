@@ -5,6 +5,7 @@ https://github.com/camilachim/Tarea-con-funciones/blob/0d8e9fcd81f0ef583990d8f60
 **Inverso de un numero**
 https://github.com/camilachim/Tarea-con-funciones/blob/cb87dde3808557c922bbe754a12f488334fa2173/2_Inverso_numero.c
 **Potencia mediante sumas**
+https://github.com/camilachim/Tarea-con-funciones/blob/4a661b2f71a085f564726d3f8fe072c340890d08/3_Potencia_Sumas.c
 **Radicacion mediante restas**
 **Serie Fibonacci**
 **Factorial de un numero**
