@@ -2,11 +2,16 @@
 
 **Suma de digitos**
 https://github.com/camilachim/Tarea-con-funciones/blob/0d8e9fcd81f0ef583990d8f60db7a35e628c8dff/1_Suma_Digitos.c
+
 **Inverso de un numero**
 https://github.com/camilachim/Tarea-con-funciones/blob/cb87dde3808557c922bbe754a12f488334fa2173/2_Inverso_numero.c
+
 **Potencia mediante sumas**
 https://github.com/camilachim/Tarea-con-funciones/blob/4a661b2f71a085f564726d3f8fe072c340890d08/3_Potencia_Sumas.c
+
 **Radicacion mediante restas**
+https://github.com/camilachim/Tarea-con-funciones/blob/2c247089ddbcbb3ecaa6716f35400698ce7c188d/4_Radicacion_Restas.c
+
 **Serie Fibonacci**
 **Factorial de un numero**
 **Suma de una serie aritmetica**
