@@ -16,6 +16,8 @@ https://github.com/camilachim/Tarea-con-funciones/blob/2c247089ddbcbb3ecaa6716f3
 https://github.com/camilachim/Tarea-con-funciones/blob/80ffb2cb161e9925a3f0a9037eec1f9e618d7570/5_Serie_Fibonacci.c
 
 **Factorial de un numero**
+https://github.com/camilachim/Tarea-con-funciones/blob/1788d87a045d6e68192f0859618cd3b7b04a0120/6_Factorial.c
+
 **Suma de una serie aritmetica**
 **Producto de una serie geometrica**
 **Numero de digitos de un numero**
